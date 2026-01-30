@@ -1,0 +1,7 @@
+C:\Users\student203\Documents\Тосов\мдк 07\сектор\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\student203\Documents\Тосов\мдк 07\сектор\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\student203\Documents\Тосов\мдк 07\сектор\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\student203\Documents\Тосов\мдк 07\сектор\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\student203\Documents\Тосов\мдк 07\сектор\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\student203\Documents\Тосов\мдк 07\сектор\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\student203\Documents\Тосов\мдк 07\сектор\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
